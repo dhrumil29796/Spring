@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Spring4/JPA/spring-orm-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring4/JPA/spring-oxm-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring4/JPA/spring-tx-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring4/spring-test-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
